@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/Internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
+[<img src="/Internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/GdeGuz25/GdeGuz25/refs/heads/main/Internship.png)
 [<img src="/Stepik.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/GdeGuz25/GdeGuz25/refs/heads/main/Stepik.png)
 
 <br>
