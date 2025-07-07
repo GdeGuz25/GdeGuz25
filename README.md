@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Меня зовут Гузель, и я - QA Engineer
+Меня зовут Гузель, я - QA Engineer
 
 ## 📊 Статистика
 
